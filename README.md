@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Hi, I'm Moshe! 👋
+
 I love coffee ☕, Linux 🐧, psychological thrillers 😲, and working on whatever projects I feel like 💻.
 
 A few things I'm working on at the moment:
- - [Morfix Lite](https://github.com/outofink/morfix-lite) - An extremely lightweight front-end alternative for Morfix.
- - [Notes](https://github.com/outofink/notes) - My notes from school, written in LaTeX, formatted for the web.
- - [Shades](https://github.com/outofink/shades) - A simple yet addicting color geussing game.
+
+- [Morfix Lite](https://github.com/outofink/morfix-lite) - An extremely lightweight front-end alternative for Morfix.
+- [Notes](https://github.com/outofink/notes) - My notes from school, written in LaTeX, formatted for the web.
+- [Shades](https://github.com/outofink/shades) - A simple yet addicting color geussing game.
