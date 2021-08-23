@@ -23,4 +23,4 @@ A few things I'm working on at the moment:
 
 - [Morfix Lite](https://github.com/outofink/morfix-lite) - An extremely lightweight front-end alternative for Morfix.
 - [Notes](https://github.com/outofink/notes) - My notes for university, written in Markdown + LaTeX math, rendered for the web.
-- [Shades](https://github.com/outofink/shades) - A simple yet addicting color geussing game.
+- [Shades](https://github.com/outofink/shades) - A simple yet addicting color guessing game.
